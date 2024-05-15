@@ -1,0 +1,16 @@
+Mustika_Ratu;Bedak;20000
+Wardah;Lipstik;40000
+Wardah;Kuteks;13000
+Lomira;Pensil_alis;7000
+Lomira;Maskara;90000
+Lomira;Celak;25000
+Miranda;Cat_rambut;29000
+Ponds;Krim_Kulit;15000;
+Ponds;Lotion_kulit;67000
+Rexona;Deodoran;9000
+Kahf;Parfum;35000
+Kahf;Sabun;55000
+Garnier;Masker_muka;7000
+Garnier;Serum_wajah;25000
+Wardah;Moisturizer;22000
+Wardah;Sunscreen;27000

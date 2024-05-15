@@ -1,0 +1,55 @@
+History edit data :
+---------------------------------------
+Data awal : 
+Tgl   : 06-11-2022
+Nama  : Sunscreen
+Harga : 32000
+Stok  : 420
+
+Diedit menjadi : 
+Tgl   : 06-11-2022
+Nama  : Sunscreen
+Harga : 32000
+Stok  : 500
+---------------------------------------
+Data awal : 
+Tgl   : 06-11-2022
+Nama  : Sunscreen
+Harga : 32000
+Stok  : 500
+
+Diedit menjadi : 
+Tgl   : 06-11-2022
+Nama  : Sunscreen
+Harga : 32000
+Stok  : 510
+---------------------------------------
+Data awal : 
+Nama layanan  : Perawatan_Rambut
+Harga layanan : 300000
+Data awal : 
+Nama layanan  : Perawatan_Rambut
+Harga layanan : 200000
+---------------------------------------
+Data awal : 
+Tgl   : 06-11-2022
+Nama  : Sunscreen
+Harga : 32000
+Stok  : 700
+
+Diedit menjadi : 
+ - 
+(Data dihapus)
+---------------------------------------
+Data awal : 
+Tgl   : 23-3-2023
+Nama  : roi
+Harga : 24000
+Stok  : 4
+
+Diedit menjadi : 
+Tgl   : 23-3-2023
+Nama  : handbody
+Harga : 24000
+Stok  : 4
+---------------------------------------

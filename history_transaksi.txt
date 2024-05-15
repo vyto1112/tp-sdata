@@ -1,0 +1,248 @@
+Daftar history transaksi :
+---------------------------------------------------
+Transaksi pada tanggal 23-11-2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Bedak    = Rp.25000 x 10 = 250000
+---------------------------------------------------
+Total belanjaan : Rp.250000
+
+Transaksi pada tanggal 24-11-2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Parfum    = Rp.40000 x 10 = 400000
+---------------------------------------------------
+Total belanjaan : Rp.400000
+
+Transaksi pada tanggal 24-11-2022 atas nama vito
+NIK       : 2100018179
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+---------------------------------------------------
+Bedak    = Rp.25000 x 10 = 250000
+---------------------------------------------------
+Total belanjaan : Rp.250000
+
+Transaksi pada tanggal 24-11-2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Perawatan_Rambut    = Rp.200000
+Perawatan_Wajah    = Rp.300000
+---------------------------------------------------
+Total belanjaan : Rp.500000
+
+Transaksi pada tanggal 25-11-2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Perawatan_Rambut    = Rp.200000
+---------------------------------------------------
+Total belanjaan : Rp.200000
+
+Transaksi pada tanggal 25-11-2022 atas nama vito
+NIK       : 2100018179
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+---------------------------------------------------
+Sunscreen    = Rp.32000 x 10 = 320000
+---------------------------------------------------
+Total belanjaan : Rp.320000
+
+Transaksi pada tanggal 25-11-2022 atas nama vito
+NIK       : 2100018179
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+---------------------------------------------------
+Perawatan_Wajah    = Rp.300000
+---------------------------------------------------
+Total belanjaan : Rp.300000
+
+Transaksi pada tanggal 25-11-2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Bedak    = Rp.25000 x 10 = 250000
+---------------------------------------------------
+Total belanjaan : Rp.250000
+
+Transaksi pada tanggal 25-11-2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Sabun    = Rp.60000 x 10 = 600000
+---------------------------------------------------
+Total belanjaan : Rp.600000
+
+Transaksi pada tanggal 25-11-2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Perawatan_Rambut    = Rp.200000
+Perawatan_Wajah    = Rp.300000
+---------------------------------------------------
+Total belanjaan : Rp.500000
+
+Transaksi pada tanggal 25/11/2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Parfum    = Rp.40000 x 2 = 80000
+---------------------------------------------------
+Total belanjaan : Rp.80000
+
+Transaksi pada tanggal 25/11/2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Body_Massage    = Rp.150000
+---------------------------------------------------
+Total belanjaan : Rp.150000
+
+Transaksi pada tanggal 21-12-2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Bedak    = Rp.25000 x 10 = 250000
+---------------------------------------------------
+Total belanjaan : Rp.250000
+
+Transaksi pada tanggal 21-12-2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Hair_treatment    = Rp.200000
+---------------------------------------------------
+Total belanjaan : Rp.225000
+
+Transaksi pada tanggal 23-12-2022 atas nama vito
+NIK       : 2100018179
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+---------------------------------------------------
+Hair_treatment    = Rp.200000
+---------------------------------------------------
+Total belanjaan : Rp.225000
+
+Transaksi pada tanggal 23-12-2022 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Hair_treatment    = Rp.200000
+---------------------------------------------------
+Total belanjaan : Rp.225000
+
+Transaksi pada tanggal 01-01-2023 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Masker_Muka    = Rp.10000 x 3 = 30000
+---------------------------------------------------
+Total belanjaan : Rp.30000
+
+Transaksi pada tanggal 01-01-2023 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Sabun    = Rp.60000 x 6 = 360000
+---------------------------------------------------
+Total belanjaan : Rp.360000
+
+Transaksi pada tanggal 01-01-2023 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Serum_Wajah    = Rp.30000 x 12 = 360000
+---------------------------------------------------
+Total belanjaan : Rp.385000
+
+Transaksi pada tanggal 01-01-2023 atas nama vito
+NIK       : 2100018179
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+---------------------------------------------------
+Parfum    = Rp.40000 x 10 = 400000
+---------------------------------------------------
+Total belanjaan : Rp.425000
+
+Transaksi pada tanggal 01-01-2023 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Parfum    = Rp.40000 x 10 = 400000
+---------------------------------------------------
+Total belanjaan : Rp.400000
+
+Transaksi pada tanggal 02-01-2023 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Sunscreen    = Rp.32000 x 3 = 96000
+---------------------------------------------------
+Total belanjaan : Rp.96000
+
+Transaksi pada tanggal 02-01-2023 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Sunscreen    = Rp.32000 x 15 = 480000
+---------------------------------------------------
+Total belanjaan : Rp.480000
+
+Transaksi pada tanggal 02-01-2023 atas nama vito
+NIK       : 2100018179
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+---------------------------------------------------
+Moisturizer    = Rp.25000 x 7 = 175000
+---------------------------------------------------
+Total belanjaan : Rp.175000
+
+Transaksi pada tanggal 03-01-2023 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Parfum    = Rp.40000 x 7 = 280000
+---------------------------------------------------
+Total belanjaan : Rp.280000
+
+Transaksi pada tanggal 03-01-2023 atas nama rizal
+NIK       : 2100018214
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+---------------------------------------------------
+Head_Massage    = Rp.120000
+Spa_dan_sauna    = Rp.170000
+---------------------------------------------------
+Total belanjaan : Rp.315000
+
+Transaksi pada tanggal 5-3-2002 atas nama vito
+NIK       : 2100018179
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+---------------------------------------------------
+Lipstik    = Rp.50000 x 2 = 100000
+---------------------------------------------------
+Total belanjaan : Rp.125000
+

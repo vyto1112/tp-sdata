@@ -1,0 +1,2 @@
+admin;2100018000;dimas;Jogja;01-01-2000
+user;2100018999;surti;Jogja;01-01-2000

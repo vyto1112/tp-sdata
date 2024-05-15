@@ -1,0 +1,39 @@
+Daftar history pesanan :
+---------------------------------------------------
+Transaksi pada tanggal 01-01-2023 atas nama yoga
+NIK       : 2100018209
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+---------------------------------------------------
+Sabun    = Rp.55000 x 1 = 55000
+Masker_muka    = Rp.7000 x 1 = 7000
+---------------------------------------------------
+Total belanjaan : Rp.62000
+
+Transaksi pada tanggal 02-01-2023 atas nama yoga
+NIK       : 2100018209
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+---------------------------------------------------
+Kuteks    = Rp.13000 x 47 = 611000
+---------------------------------------------------
+Total belanjaan : Rp.611000
+
+Transaksi pada tanggal 03-01-2023 atas nama yoga
+NIK       : 2100018209
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+---------------------------------------------------
+Parfum    = Rp.35000 x 10 = 350000
+---------------------------------------------------
+Total belanjaan : Rp.350000
+
+Transaksi pada tanggal 03-01-2023 atas nama yoga
+NIK       : 2100018209
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+---------------------------------------------------
+Krim_Kulit    = Rp.15000 x 3 = 45000
+---------------------------------------------------
+Total belanjaan : Rp.45000
+

@@ -1,0 +1,218 @@
+Daftar history login :
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018214
+Nama      : rizal
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+Status    : User
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018214
+Nama      : rizal
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+Status    : User
+---------------------------------------
+NIK       : 2100018214
+Nama      : rizal
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+Status    : User
+---------------------------------------
+NIK       : 2100018214
+Nama      : rizal
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+Status    : User
+---------------------------------------
+NIK       : 2100018214
+Nama      : rizal
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+Status    : User
+---------------------------------------
+NIK       : 2100018179
+Nama      : vito
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+Status    : User
+---------------------------------------
+NIK       : 2100018214
+Nama      : rizal
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+Status    : User
+---------------------------------------
+NIK       : 2100018214
+Nama      : rizal
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+Status    : User
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018214
+Nama      : rizal
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+Status    : User
+---------------------------------------
+NIK       : 2100018179
+Nama      : vito
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+Status    : User
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018214
+Nama      : rizal
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+Status    : User
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018214
+Nama      : rizal
+Alamat    : Pati
+Tgl lahir : 30-07-2003
+Status    : User
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------
+NIK       : 2100018179
+Nama      : vito
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+Status    : User
+---------------------------------------
+NIK       : 2100018179
+Nama      : vito
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+Status    : User
+---------------------------------------
+NIK       : 2100018179
+Nama      : vito
+Alamat    : Lampung
+Tgl lahir : 11-12-2002
+Status    : User
+---------------------------------------
+NIK       : 2100018209
+Nama      : yoga
+Alamat    : Kebumen
+Tgl lahir : 13-03-2003
+Status    : Admin
+---------------------------------------

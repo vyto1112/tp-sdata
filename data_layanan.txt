@@ -1,0 +1,7 @@
+Hair_treatment;200000;
+Hair_spa;100000;
+Facial_Treatment;250000;
+Body_Massage;150000
+Head_Massage;120000;
+Foot_Message;60000;
+Spa_dan_sauna;170000;

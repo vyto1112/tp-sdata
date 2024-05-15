@@ -1,0 +1,7 @@
+CEO
+Manager_Klinik
+Admin_Klinik
+Kasir_Klinik
+Manager_Toko
+Kasir_Toko
+Admin_Toko
